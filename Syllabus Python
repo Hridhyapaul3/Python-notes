@@ -1,0 +1,63 @@
+-----------------------------
+Introduction of python 
+------------------------------
+1) comments
+2) keywords
+3) variables
+4) datatypes
+5) operators
+6) input output statements
+7) conditional statements 
+   * if 
+   * if else
+   * continuous if else or if else ladder
+   * nested if else
+8) loops
+    * for loop
+    * while loop
+    * nested loop
+
+9)build in data structure 
+  * list
+  * tuple
+  * set
+  * dictionary
+  
+10)Functions
+   ------3 TYPES
+   
+     * Build in fuctions
+     * user defined fuctions
+     * lambda functions
+     
+11)File handling
+12)Error and Exception handling
+
+---------------------------------------------------------------------------------
+python libraries for data analytics
+--------------------------------------------------------------------------------
+1) Pandas  ---data manipulation
+2) Numpy   ---Numerical Python (Mathemathical and higher dimension data calculation)
+3) Matplotlibs pyplot
+4) seaborn
+
+
+-------------------------------------------------------------------------------------
+Python libraries for machine learning
+--------------------------------------------------------------------------------------
+  
+1) sktlearn(scikit learn)---------for all kind of machine learning tasks
+
+
+-----------------------------------------------------------------------------------------
+Python libraries for deep learning
+-----------------------------------------------------------------------------------------
+1) tensorflow with keras
+2) Pytourch
+
+------------------------------------------------------------------------------------------------------
+UPGRADE URSELF  ----   * OOPS ans DSA 
+------------------------------------------------------------------------------------------------------
+
+
+   
